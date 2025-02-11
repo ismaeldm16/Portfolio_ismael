@@ -6,6 +6,6 @@
 - 📫 Contacto: [ismaeldm16@gmail.com]
 
 ## Proyectos
-1. [Proyecto 1](https://github.com/ismaeldm16/Servicio_SOAP)
+1. [Servicio SOAP](https://github.com/ismaeldm16/Servicio_SOAP)
 2. [Proyecto 2](URL)
 3. [Proyecto 3](URL)
