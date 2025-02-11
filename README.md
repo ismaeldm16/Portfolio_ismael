@@ -3,7 +3,7 @@
 
 ## Sobre mí
 - 🌱 Actualmente aprendiendo: [PHP, JavaScript]
-- 📫 Contacto: [ismaeldm16@gmail.com]
+- 📫 Contacto: [ismadiazm16@gmail.com]
 
 ## Proyectos
 1. [Servicio SOAP](https://github.com/ismaeldm16/Servicio_SOAP)
