@@ -7,5 +7,5 @@
 
 ## Proyectos
 1. [Servicio SOAP](https://github.com/ismaeldm16/Servicio_SOAP)
-2. [Proyecto 2](URL)
+2. [Proyecto 2](https://github.com/ismaeldm16/proyecto_votos)
 3. [Proyecto 3](URL)
