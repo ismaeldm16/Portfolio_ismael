@@ -6,6 +6,6 @@
 - 📫 Contacto: [ismadiazm16@gmail.com]
 
 ## Proyectos
-1. Pimer proyecto: [Servicio SOAP](https://github.com/ismaeldm16/Servicio_SOAP) 🌞
+1. Primer proyecto: [Servicio SOAP](https://github.com/ismaeldm16/Servicio_SOAP) 🌞
 2. Segundo proyecto: [Proyecto_votos](https://github.com/ismaeldm16/proyecto_votos) ⭐
 3. Tercer proyecto: [Compra de libros](https://github.com/ismaeldm16/compra_libros) 📖
