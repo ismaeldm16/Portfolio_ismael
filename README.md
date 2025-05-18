@@ -1,5 +1,5 @@
 # Mi Portafolio Profesional
-¡Hola! Soy Ismael, un desarrollador web junior, mayoritariamente familiarizado con PHP, también manejo otros lenguajes como JavaScript, CSS... Interesado en poder aportar a proyectos para ampliar mis conocimientos. 
+¡Hola! Soy Ismael, un desarrollador web junior, mayoritariamente familiarizado con PHP, también manejo otros lenguajes como JavaScript, algo de React y React Native Interesado en poder aportar a proyectos para ampliar mis conocimientos. 
 
 ## Sobre mí
 - 🌱 Actualmente aprendiendo: [PHP, JavaScript]
